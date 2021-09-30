@@ -8,4 +8,7 @@ You should install node and run the script as:
 In case you need to target a different version of ES:
 
 > tsc --init to generatel tsconfig.json
-> set "target": "ESNext"
+
+And then edit tsconfig.json
+
+>  "target": "ESNext"
